@@ -1,2 +1,2 @@
 # CoTeFo
-A simple header-only console text formatting library
+A simple header-only text formatting library for use with C++'s <iostream>.
